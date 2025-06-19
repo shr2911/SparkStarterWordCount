@@ -1,0 +1,5 @@
+Apache Spark is a powerful open-source processing engine.
+Spark runs programs up to 100x faster than Hadoop MapReduce.
+It provides high-level APIs in Java, Scala, Python and R.
+Spark is fast and general-purpose.
+This makes Spark great for machine learning and data processing.
